@@ -269,4 +269,3 @@ int main()
 
 Thus, the program that counts the number of words in a given sentence is verified 
 successfully.
-](https://github.com/24004372/Advanced-C-Lab-Manual/blob/main/module%2011.md)https://github.com/24004372/Advanced-C-Lab-Manual/blob/main/module%2011.md
